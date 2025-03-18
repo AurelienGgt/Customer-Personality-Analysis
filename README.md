@@ -130,8 +130,6 @@ The goal of this dataset is to perform clustering to identify and summarize cust
 
 - Hierarchical Clustering
 
-- DBSCAN
-
 
 -------------------------------------
 **📈 Expected Insights**
